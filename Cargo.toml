@@ -1,6 +1,6 @@
 [package]
 name = "import-handle"
-version = "1.0.3"
+version = "1.0.4"
 authors = ["Luke Wilkinson <wilkinsonluke@proton.me>"]
 edition = "2021"
 license = "GPL-3.0"
