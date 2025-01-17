@@ -1,7 +1,7 @@
 #![allow(non_snake_case)]
 
 use std::io;
-fn main(){}
+
 pub fn get_u8_input(message: &str) -> u8 {
     println!("{}", message);
     let mut userInput = String::new();
