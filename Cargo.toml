@@ -1,5 +1,5 @@
 [package]
-name = "import-handler"
+name = "import-handle"
 version = "1.0.3"
 authors = ["Luke Wilkinson <wilkinsonluke@proton.me>"]
 edition = "2021"
