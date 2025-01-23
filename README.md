@@ -1,4 +1,4 @@
-import-handler is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
+Import-handler is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
 
 # Current functions
 ### get_u8_input
@@ -17,6 +17,11 @@ import-handler is a basic library designed to handle user inputs of any type and
 ### get_char_input
 ### get_string_input
 
+# Usage
+```rust
+get_u8_input(message) 
+```
+Where message is what the user will be asked
 # How it works
 
 Each function follows the same principles, adjusting for each data type. Here is the code for get_u32_input:
