@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "import-handle"
+name = "input-handle"
 version = "1.0.4"
