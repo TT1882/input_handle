@@ -1,4 +1,4 @@
-Input-handler is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
+Input-handle is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
 
 # Current functions
 ### get_u8_input
