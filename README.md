@@ -1,4 +1,4 @@
-Import-handler is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
+Input-handler is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
 
 # Current functions
 ### get_u8_input
@@ -19,7 +19,7 @@ Import-handler is a basic library designed to handle user inputs of any type and
 
 # Usage
 ```rust
-get_u8_input(message) 
+get_u8_input(message);
 ```
 Where message is what the user will be asked
 # How it works
