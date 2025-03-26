@@ -1,21 +1,21 @@
 Input-handle is a basic library designed to handle user inputs of any type and avoid a panic. It has error handling built in
 
 # Current functions
-### get_u8_input
-### get_u32_input
-### get_u64_input
-### get_u128_input
-### get_usize_input
-### get_i8_input
-### get_i32_input
-### get_i64_input
-### get_i128_input
-### get_isize_input
-### get_f32_input
-### get_f64_input
-### get_bool_input
-### get_char_input
-### get_string_input
+#### get_u8_input
+#### get_u32_input
+#### get_u64_input
+#### get_u128_input
+#### get_usize_input
+#### get_i8_input
+#### get_i32_input
+#### get_i64_input
+#### get_i128_input
+#### get_isize_input
+#### get_f32_input
+#### get_f64_input
+#### get_bool_input
+#### get_char_input
+#### get_string_input
 
 # Usage
 ```rust
